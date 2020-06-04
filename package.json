@@ -1,0 +1,30 @@
+{
+  "name": "vscode-ext-codicons",
+  "version": "1.0.0",
+  "description": "VS Code Codicons helper functions",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vscode",
+    "codicons"
+  ],
+  "author": "Alessandro Fragnani",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alefragnani/vscode-ext-codicons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alefragnani/vscode-ext-codicons/issues"
+  },
+  "homepage": "https://github.com/alefragnani/vscode-ext-codicons#readme",
+  "devDependencies": {
+    "@types/node": "^10.14.17",
+    "@types/vscode": "^1.41.0",
+    "typescript": "^3.5.1"
+  },
+  "types": "lib/index.d.ts"
+}
