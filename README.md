@@ -11,7 +11,7 @@ This module provides objects to work with [codicons](https://microsoft.github.io
 ## Usage
 
 ```ts
-    import { ThemeIcons, octicons } from "vscode-ext-codicons";
+    import { ThemeIcons, codicons } from "vscode-ext-codicons";
 
     ...
 
