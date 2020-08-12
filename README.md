@@ -2,7 +2,7 @@
 
 This module provides objects to work with [codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) while developing VS Code extensions.
 
-[Codicons]() where officially released in February 2020 ([publishing notes](https://code.visualstudio.com/updates/v1_42#_extension-authoring)), being now possible to extension developers to reuse them. Prior to that, you only had available support to [GitHub Octicons](https://primer.style/octicons/).
+[Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) where officially released in February 2020 ([publishing notes](https://code.visualstudio.com/updates/v1_42#_extension-authoring)), being now possible to extension developers to reuse them. Prior to that, you only had available support to [GitHub Octicons](https://primer.style/octicons/).
 
 ## Installation
 
