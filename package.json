@@ -1,9 +1,8 @@
 {
   "name": "vscode-ext-codicons",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "VS Code Codicons helper functions",
   "main": "lib/index.js",
-  
   "keywords": [
     "vscode",
     "codicons"
@@ -19,10 +18,10 @@
   },
   "homepage": "https://github.com/alefragnani/vscode-ext-codicons#readme",
   "eslintConfig": {
-		"extends": [
-			"vscode-ext"
-		]
-	},
+    "extends": [
+      "vscode-ext"
+    ]
+  },
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
