@@ -32,7 +32,7 @@
     "@types/vscode": "^1.41.0",
     "@typescript-eslint/eslint-plugin": "^8.46.4",
     "@typescript-eslint/parser": "^8.46.4",
-    "eslint": "^9.39.1",
+    "eslint": "^10.8.0",
     "eslint-config-vscode-ext": "^1.0.0",
     "typescript": "^3.5.1"
   },
